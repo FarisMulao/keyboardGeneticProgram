@@ -1,0 +1,7 @@
+______________  ________________
+ ` 1 2 3 4 5 6  7 8 9 0 K = Back
+Tab - L I O U  J C D G B [ ] \
+Caps ' R E A Y  F N S T H ; Enter
+Shift / W Q X Z  M P V , . Shift
+
+Above keyboard has fitness of: 66.6306236405981
